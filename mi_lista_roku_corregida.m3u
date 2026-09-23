@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",13 C
+http://181.78.79.131:8000/play/a0pm
+#EXTINF:-1 group-title="Entretenimiento",A&E HD
+http://181.78.79.131:8000/play/a0mt
+#EXTINF:-1 group-title="Entretenimiento",AE Mundo
+http://181.78.79.131:8000/play/a0t2
+#EXTINF:-1 group-title="Peliculas",AMC HD
+http://181.78.79.131:8000/play/a0n2
+#EXTINF:-1 group-title="Latinoamerica",ATV
+http://181.78.79.131:8000/play/a0sp
+#EXTINF:-1 group-title="Peliculas",AXN HD
+http://181.78.79.131:8000/play/a0q0
+#EXTINF:-1 group-title="Entretenimiento",Adult Swim
+http://181.78.79.131:8000/play/a0pk
+#EXTINF:-1 group-title="Latinoamerica",America TV PY
+http://181.78.79.131:8000/play/a0ss
+#EXTINF:-1 group-title="Documentales",Animal Planet
+http://181.78.79.131:8000/play/a0po
+#EXTINF:-1 group-title="General",Atres Series
+http://181.78.79.131:8000/play/a0n0
+#EXTINF:-1 group-title="Religion",BETHEL TV
+http://181.78.79.131:8000/play/a0pn
+#EXTINF:-1 group-title="Entretenimiento",Baby First
+http://181.78.79.131:8000/play/a0sw
+#EXTINF:-1 group-title="Colombia",CANAL 1
+http://181.78.79.131:8000/play/a0s2
+#EXTINF:-1 group-title="Colombia",CANAL INSTITUCIONAL
+http://181.78.79.131:8000/play/a0l8
+#EXTINF:-1 group-title="Colombia",CARACOL TV HD
+http://181.78.79.131:8000/play/a0l0
+#EXTINF:-1 group-title="Chile",CHV
+http://181.78.79.131:8000/play/a0r0
+#EXTINF:-1 group-title="Chile",CNN Chile
+http://181.78.79.131:8000/play/a0qp
+#EXTINF:-1 group-title="Noticias",CNN EspaÃ±ol
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:-1 group-title="Chile",Canal 13
+http://181.78.79.131:8000/play/a0n4
+#EXTINF:-1 group-title="Chile",Canal 24 Horas
+http://181.78.79.131:8000/play/a0qr
+#EXTINF:-1 group-title="Colombia",Canal Caracol
+http://181.78.79.131:8000/play/a0sb
+#EXTINF:-1 group-title="Colombia",Canal RCN
+http://181.78.79.131:8000/play/a0sc
+#EXTINF:-1 group-title="General",Canal TUVES
+http://181.78.79.131:8000/play/a0q8
+#EXTINF:-1 group-title="General",Canal del Congreso
+http://181.78.79.131:8000/play/a0se
+#EXTINF:-1 group-title="Chile",Capital
+http://181.78.79.131:8000/play/a0sj
+#EXTINF:-1 group-title="Entretenimiento",Cartoon Network HD
+http://181.78.79.131:8000/play/a0oz
+#EXTINF:-1 group-title="Peliculas",Cinecanal
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:-1 group-title="Colombia",City TV
+http://181.78.79.131:8000/play/a0si
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central HD
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1 group-title="Infantiles",DHE HD
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:-1 group-title="Peliculas",De Pelicula
+http://181.78.79.131:8000/play/a0qb
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://181.78.79.131:8000/play/a0p0
+#EXTINF:-1 group-title="Documentales",Discovery Science
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:-1 group-title="Documentales",Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
