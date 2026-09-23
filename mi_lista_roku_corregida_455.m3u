@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entretenimiento",A&E HD
+http://181.78.79.131:8000/play/a0mt
+#EXTINF:-1 group-title="Entretenimiento",AE Mundo
+http://181.78.79.131:8000/play/a0t2
+#EXTINF:-1 group-title="Peliculas",AMC HD
+http://181.78.79.131:8000/play/a0n2
+#EXTINF:-1 group-title="Peliculas",AXN HD
+http://181.78.79.131:8000/play/a0q0
+#EXTINF:-1 group-title="Documentales",Animal Planet
+http://181.78.79.131:8000/play/a0po
+#EXTINF:-1 group-title="General",Serie Atres
+http://181.78.79.131:8000/play/a0n0
+#EXTINF:-1 group-title="Entretenimiento",Cartoon Network HD
+http://181.78.79.131:8000/play/a0oz
+#EXTINF:-1 group-title="Peliculas",Cinecanal
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central HD
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1 group-title="Peliculas",De Pelicula
+http://181.78.79.131:8000/play/a0qb
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://181.78.79.131:8000/play/a0p0
+#EXTINF:-1 group-title="Documentales",Discovery Science
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:-1 group-title="Documentales",Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
+#EXTINF:-1 group-title="Documentales",Discovery World HD
+http://181.78.79.131:8000/play/a0n8
+#EXTINF:-1 group-title="Entretenimiento",Disney Jr.
+http://181.78.79.131:8000/play/a0p7
+#EXTINF:-1 group-title="-",Disney Channel
+http://190.60.52.28:5001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="-",Disney HD
+http://190.60.52.28:5001/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="-",Disney Jr
+http://190.60.52.28:5001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",Distrito Comedia
+http://190.60.52.28:5001/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="-",ESPN (N)
+http://190.60.52.28:5001/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD (N2)
+http://190.60.52.28:5001/play/a09t/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD (N2)
+http://190.60.52.28:5001/play/a094/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD (N)
+http://190.60.52.28:5001/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD (N2)
+http://190.60.52.28:5001/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD (N2)
+http://190.60.52.28:5001/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD (N2)
+http://181.78.79.131:8000/play/a0q5
+#EXTINF:-1 group-title="Peliculas",HBO
+http://181.78.79.131:8000/play/a0qd
+#EXTINF:-1 group-title="Peliculas",HBO Xtreme HD
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1 group-title="Documentales",History Channel
+http://181.78.79.131:8000/play/a0st
+#EXTINF:-1 group-title="General",Las Estrellas HD
+http://181.78.79.131:8000/play/a0qu
+#EXTINF:-1 group-title="Entretenimiento",De por vida
+http://181.78.79.131:8000/play/a0pi
+#EXTINF:-1 group-title="Entretenimiento",MTV HD
+http://181.78.79.131:8000/play/a0nc
+#EXTINF:-1 group-title="Documentales",Nat Geo HD
+http://181.78.79.131:8000/play/a0pt
+#EXTINF:-1 group-title="Entretenimiento",Nick Jr.
+http://181.78.79.131:8000/play/a0p9
+#EXTINF:-1 group-title="Entretenimiento",Nickelodeon HD
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 group-title="Peliculas",Pasiones HD
+http://181.78.79.131:8000/play/a0qh
+#EXTINF:-1 group-title="Peliculas",Sony HD
+http://181.78.79.131:8000/play/a0py
+#EXTINF:-1 group-title="Peliculas",Sony Movies
+http://181.78.79.131:8000/play/a0p5
+#EXTINF:-1 group-title="Películas",Space HD
+http://181.78.79.131:8000/play/a0q2
+#EXTINF:-1 group-title="Peliculas",TNT Novelas HD
+http://181.78.79.131:8000/play/a0na
+#EXTINF:-1 group-title="Peliculas",UNIVERSAL CHANNEL HD
+http://181.78.79.131:8000/play/a0mw
+#EXTINF:-1 group-title="Películas",Warner
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:-1 group-title="Peliculas",Warner TV HD
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:-1 group-title="Peliculas",AXN
+http://181.78.8.199:8000/play/a0am/index.m3u8
+#EXTINF:-1 group-title="Peliculas",AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="Música",BANDAMAX
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="General",CANAL DE LAS ESTRELLAS
+http://181.78.8.199:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Colombia",CANAL TRO TRANS
+http://181.78.8.199:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="General",CANAL VENEVICION LOCAL
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="General",CANALES NACIONALES
+http://181.78.8.199:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="General",CANALESTRELLAS
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="Deportes",TUDN USA (Opción 1)
+https://yce5o.envivosalatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=54d68f4f078ac86e5aeb675965cb0e520950292e-80-1773308286-1773254286
+#EXTINF:-1 group-title="Deportes",Fox Sports (Opción 1)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Latina
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Comedia
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Familia
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Serie Xtrema
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Xtrema Retro Infantil
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Zonda TV
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",A&E HD
+http://168.232.168.242:4000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",AMC HD
+http://168.232.168.242:4000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",AXN HD
+http://168.232.168.242:4000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",FOX HD
+http://168.232.168.242:4000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",FOX Action HD
+http://168.232.168.242:4000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",FOX Comedy HD
+http://168.232.168.242:4000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",FOX Life
+http://168.232.168.242:4000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",FX HD
+http://168.232.168.242:4000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",FX Peliculas HD
+http://168.232.168.242:4000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TNT HD
+http://168.232.168.242:4000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TNT Series HD
+http://168.232.168.242:4000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Warner HD
+http://168.232.168.242:4000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Sony HD
+http://168.232.168.242:4000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central HD
+http://168.232.168.242:4000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Universal
+http://168.232.168.242:4000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Paramount HD
+http://168.232.168.242:4000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",De por vida
+http://168.232.168.242:4000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Studio Universal HD
+http://168.232.168.242:4000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Peliculas",HBO HD
+http://168.232.168.242:4000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Peliculas",HBO 2 HD
+http://168.232.168.242:4000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Peliculas",HBO Plus HD
+http://168.232.168.242:4000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Peliculas",HBO Family HD
+http://168.232.168.242:4000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Peliculas",HBO Xtreme
+http://168.232.168.242:4000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Cinecanal HD
+http://168.232.168.242:4000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Cinemax
+http://168.232.168.242:4000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Cine Latino
+http://168.232.168.242:4000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Peliculas",FOX Movies HD
+http://168.232.168.242:4000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Fox Classic HD
+http://168.232.168.242:4000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Películas",Golden
+http://168.232.168.242:4000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Golden Premiere HD
+http://168.232.168.242:4000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Multipremier
+http://168.232.168.242:4000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Películas",Multicinema
+http://168.232.168.242:4000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Channel
+http://168.232.168.242:4000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://168.232.168.242:4000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney XD
+http://168.232.168.242:4000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nickelodeon
+http://168.232.168.242:4000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nick Jr
+http://168.232.168.242:4000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://168.232.168.242:4000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Boomerang
+http://168.232.168.242:4000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nat Geo Kids
+http://168.232.168.242:4000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Latinoamérica",Azteca 7 México
+http://168.232.168.242:4000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Latinoamerica",Canal 5 México
+http://168.232.168.242:4000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Latinoamerica",Multimedios Monterrey
+http://168.232.168.242:4000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Latinoamerica",Telemundo HD
+http://168.232.168.242:4000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Latinoamerica",Univision HD
+http://168.232.168.242:4000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Latinoamerica",TL Novelas
+http://168.232.168.242:4000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Fuentes Online",PlutoTV México (playlist)
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
+#EXTINF:-1 group-title="Fuentes Online",CanelaTV (playlist)
+https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/refs/heads/main/tv/m3u/CanelaTV_tv.m3u
+#EXTINF:-1 group-title="Deportes",US Latin TUDN [fortv]
+http://fortv.cc:8080/live/A5aaXj/235081/11885.m3u8
+#EXTINF:-1 group-title="Latino",MX DISTRITO COMEDIA [fortv]
+http://fortv.cc:8080/live/A5aaXj/235081/57639.m3u8
