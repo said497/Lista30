@@ -1,140 +1,455 @@
-#EXTM3U
-#EXTINF:0 group-title="General",13 C
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pm
-#EXTINF:0 group-title="Entretenimiento",A&E HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
+# EXTM3U
+# EXTINF : 0  group-title = " Entretenimiento " , A&E HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0mt
-#EXTINF:0 group-title="Entretenimiento",AE Mundo
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Entretenimiento " , AE Mundo
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0t2
-#EXTINF:0 group-title="Peliculas",AMC HD
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Peliculas " , AMC HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0n2
-#EXTINF:0 group-title="Latinoamerica",ATV
-#EXTGRP:Latinoamerica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sp
-#EXTINF:0 group-title="Peliculas",AXN HD
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Peliculas " , AXN HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0q0
-#EXTINF:0 group-title="Entretenimiento",Adult Swim
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pk
-#EXTINF:0 group-title="Latinoamerica",America TV PY
-#EXTGRP:Latinoamerica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0ss
-#EXTINF:0 group-title="Documentales",Animal Planet
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Documentales " , Animal Planet
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0po
-#EXTINF:0 group-title="General",Atres Series
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " General " , Serie Atres
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0n0
-#EXTINF:0 group-title="Religion",BETHEL TV
-#EXTGRP:Religion
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pn
-#EXTINF:0 group-title="Entretenimiento",Baby First
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sw
-#EXTINF:0 group-title="Colombia",CANAL 1
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0s2
-#EXTINF:0 group-title="Colombia",CANAL INSTITUCIONAL
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0l8
-#EXTINF:0 group-title="Colombia",CARACOL TV HD
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0l0
-#EXTINF:0 group-title="Chile",CHV
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0r0
-#EXTINF:0 group-title="Chile",CNN Chile
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qp
-#EXTINF:0 group-title="Noticias",CNN EspaÃ±ol
-#EXTGRP:Noticias
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0p3
-#EXTINF:0 group-title="Chile",Canal 13
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0n4
-#EXTINF:0 group-title="Chile",Canal 24 Horas
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qr
-#EXTINF:0 group-title="Colombia",Canal Caracol
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sb
-#EXTINF:0 group-title="Colombia",Canal RCN
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sc
-#EXTINF:0 group-title="General",Canal TUVES
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0q8
-#EXTINF:0 group-title="General",Canal del Congreso
-#EXTGRP:General
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0se
-#EXTINF:0 group-title="Chile",Capital
-#EXTGRP:Chile
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sj
-#EXTINF:0 group-title="Entretenimiento",Cartoon Network HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Entretenimiento " , Cartoon Network HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0oz
-#EXTINF:0 group-title="Peliculas",Cinecanal
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Peliculas " , Cinecanal
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0pp
-#EXTINF:0 group-title="Colombia",City TV
-#EXTGRP:Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0si
-#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Entretenimiento " , Comedy Central HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0mu
-#EXTINF:0 group-title="Infantiles",DHE HD
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qv
-#EXTINF:0 group-title="Peliculas",De Pelicula
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Peliculas " , De Pelicula
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0qb
-#EXTINF:0 group-title="Infantiles",Discovery Kids HD
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Infantiles " , Discovery Kids HD
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0p0
-#EXTINF:0 group-title="Documentales",Discovery Science
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Documentales " , Discovery Science
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0pb
-#EXTINF:0 group-title="Documentales",Discovery Turbo
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Documentales " , Discovery Turbo
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
 http://181.78.79.131:8000/play/a0p8
-#EXTINF:0 group-title="Documentales",Discovery World HD
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
+# EXTINF : 0  group-title = " Documentales " , Discovery World HD
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0n8
+# EXTINF : 0  group-title = " Entretenimiento " , Disney Jr.
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0p7
+# EXTINF : -1  group-title = " - " , Disney Channel
+# EXTGRP : -
+http://190.60.52.28:5001/play/a0d1/index.m3u8
+# EXTINF : -1  group-title = " - " , Disney HD
+# EXTGRP : -
+http://190.60.52.28:5001/play/a0aq/index.m3u8
+# EXTINF : -1  group-title = " - " , Disney Jr
+# EXTGRP : -
+http://190.60.52.28:5001/play/a0c3/index.m3u8
+# EXTINF : -1  título-grupo = " - " , Distrito Comedia
+# EXTGRP : -
+http://190.60.52.28:5001/play/a0ba/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN (N)
+# EXTGRP : -
+http://190.60.52.28:5001/play/a0d7/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN 2 HD (N2)
+# EXTGRP : -
+http://190.60.52.28:5001/play/a09t/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN 3 HD (N2)
+# EXTGRP : -
+http://190.60.52.28:5001/play/a094/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN 4HD (N)
+# EXTGRP : -
+http://190.60.52.28:5001/play/a0as/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN 5HD (N2)
+# EXTGRP : -
+http://190.60.52.28:5001/play/a09q/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN 6HD (N2)
+# EXTGRP : -
+http://190.60.52.28:5001/play/a095/index.m3u8
+# EXTINF : -1  group-title = " - " , ESPN 7HD (N2)
+# EXTINF : 0  group-title = " Películas " , FX HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0q5
+# EXTINF : 0  group-title = " Peliculas " , HBO
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0qd
+# EXTINF : 0  group-title = " Peliculas " , HBO Xtreme HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0qy
+# EXTINF : 0  group-title = " Documentales " , History Channel
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0st
+# EXTINF : 0  group-title = " General " , Las Estrellas HD
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0qu
+# EXTINF : 0  group-title = " Entretenimiento " , De por vida
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0pi
+# EXTINF : 0  group-title = " Entretenimiento " , MTV HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0nc
+# EXTINF : 0  group-title = " Documentales " , Nat Geo HD
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0pt
+# EXTINF : 0  group-title = " Entretenimiento " , Nick Jr.
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0p9
+# EXTINF : 0  group-title = " Entretenimiento " , Nickelodeon HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0qm
+# EXTINF : 0  group-title = " Peliculas " , Pasiones HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0qh
+# EXTINF : 0  group-title = " Peliculas " , Sony HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0py
+# EXTINF : 0  group-title = " Peliculas " , Sony Movies
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0p5
+# EXTINF : 0  group-title = " Películas " , Space HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0q2
+# EXTINF : 0  group-title = " Peliculas " , TNT Novelas HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0na
+# EXTINF : 0  group-title = " Peliculas " , UNIVERSAL CHANNEL HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0mw
+# EXTINF : 0  group-title = " Películas " , Warner
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0sz
+# EXTINF : 0  group-title = " Peliculas " , Warner TV HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0pz
+# EXTINF : 0  group-title = " Peliculas " , AXN
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0am/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , AXN
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+# EXTINF : 0  group-title = " Música " , BANDAMAX
+# EXTGRP : Música
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+# EXTINF : 0  group-title = " General " , CANAL DE LAS ESTRELLAS
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0as/index.m3u8
+# EXTINF : 0  group-title = " Colombia " , CANAL TRO TRANS
+# EXTGRP : Colombia
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0dh/index.m3u8
+# EXTINF : 0  group-title = " General " , CANAL VENEVICION LOCAL
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a091/index.m3u8
+# EXTINF : 0  título-grupo = " General " , CANALES NACIONALES
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0cy/index.m3u8
+# EXTINF : 0  group-title = " General " , CANALESTRELLAS
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+# EXTINF : 0  group-title = " Deportes " , TUDN USA (Opción 1)
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://yce5o.envivosalatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=54d68f4f078ac86e5aeb675965cb0e520950292e-80-1773308286-1773254286
+# EXTINF : 0  group-title = " Deportes " , Fox Sports (Opción 1)
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Accion
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Drama
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Latina
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Suspenso
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Terror
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Comedia
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Familia
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Anime
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Serie Xtrema
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Retro Series
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Xtrema Retro Infantil
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+# EXTINF : 0  título-grupo = " Peliculas " , Zonda TV
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Cartoon Network Latino
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , A&E HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00b/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , AMC HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00c/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , AXN HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00h/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , FOX HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01p/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , FOX Action HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01l/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , FOX Comedy HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01n/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , FOX Life
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01q/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , FX HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01w/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , FX Peliculas HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01x/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , TNT HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a033/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , TNT Series HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a034/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , Warner HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a03a/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , Sony HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02t/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , Comedy Central HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00x/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , Universal
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a037/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , Paramount HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02m/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , De por vida
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a029/index.m3u8
+# EXTINF : 0  group-title = " Entretenimiento " , Studio Universal HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02w/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , HBO HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a022/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , HBO 2 HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a025/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , HBO Plus HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a023/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , HBO Family HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a021/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , HBO Xtreme
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a024/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Cinecanal HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00t/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Cinemax
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00u/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Cine Latino
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00s/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , FOX Movies HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01s/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Fox Classic HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01m/index.m3u8
+# EXTINF : 0  group-title = " Películas " , Golden
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01y/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Golden Premiere HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a051/index.m3u8
+# EXTINF : 0  group-title = " Peliculas " , Multipremier
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02f/index.m3u8
+# EXTINF : 0  group-title = " Películas " , Multicinema
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a040/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Disney Channel
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a018/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Disney Jr
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a019/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Disney XD
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a01a/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Nickelodeon
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02l/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Nick Jr
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02j/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Discovery Kids HD
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a03m/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Boomerang
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a00n/index.m3u8
+# EXTINF : 0  group-title = " Infantiles " , Nat Geo Kids
+# EXTGRP : Infantiles
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02h/index.m3u8
+# EXTINF : 0  group-title = " Latinoamérica " , Azteca 7 México
+# EXTGRP : Latinoamérica
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a04s/index.m3u8
+# EXTINF : 0  group-title = " Latinoamerica " , Canal 5 México
+# EXTGRP : Latinoamérica
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a04r/index.m3u8
+# EXTINF : 0  group-title = " Latinoamerica " , Multimedios Monterrey
+# EXTGRP : Latinoamérica
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a058/index.m3u8
+# EXTINF : 0  group-title = " Latinoamerica " , Telemundo HD
+# EXTGRP : Latinoamérica
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a02z/index.m3u8
+# EXTINF : 0  group-title = " Latinoamerica " , Univision HD
+# EXTGRP : Latinoamérica
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a038/index.m3u8
+# EXTINF : 0  group-title = " Latinoamerica " , TL Novelas
+# EXTGRP : Latinoamérica
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://168.232.168.242:4000/play/a04q/index.m3u8
+# EXTINF : 0  group-title = " Fuentes Online " , PlutoTV México (playlist)
+# EXTGRP : Fuentes Online
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
+# EXTINF : 0  group-title = " Fuentes Online " , CanelaTV (playlist)
+# EXTGRP : Fuentes Online
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/refs/heads/main/tv/m3u/CanelaTV_tv.m3u
+# EXTINF : 0  group-title = " Deportes " , US Latin TUDN [fortv]
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://fortv.cc:8080/live/A5aaXj/235081/11885.m3u8
+# EXTINF : 0  group-title = " Latino " , MX DISTRITO COMEDIA [fortv]
+# EXTGRP : Latino
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://fortv.cc:8080/live/A5aaXj/235081/57639.m3u8
