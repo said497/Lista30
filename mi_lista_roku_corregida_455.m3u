@@ -227,5 +227,5 @@ https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/P
 https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/refs/heads/main/tv/m3u/CanelaTV_tv.m3u
 #EXTINF:-1 group-title="Deportes",US Latin TUDN [fortv]
 http://fortv.cc:8080/live/A5aaXj/235081/11885.m3u8
-#EXTINF:-1 group-title="Latino",MX DISTRITO COMEDIA [fortv]
-http://fortv.cc:8080/live/A5aaXj/235081/57639.m3u8
+#EXTINF:-1 group-title="Latino",DISTRITO COMEDIA [fortv]
+http://23.237.192.180:23455/live/cyx_4AD4hwdKV0kEiQK7w3VX1J/cyx_4AD4hwdKV0kEiQK7w3VX1J_cyx_cj_2323250821.ts
