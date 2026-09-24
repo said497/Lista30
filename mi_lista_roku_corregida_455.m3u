@@ -36,7 +36,7 @@ http://190.60.52.28:5001/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="-",Disney Jr
 http://190.60.52.28:5001/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="-",Distrito Comedia
-http://190.60.52.28:5001/play/a0ba/index.m3u8
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 group-title="-",ESPN (N)
 http://190.60.52.28:5001/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD (N2)
